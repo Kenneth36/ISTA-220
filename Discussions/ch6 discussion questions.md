@@ -1,0 +1,29 @@
+# Chapter 6. Discussion Questions 
+## Kenneth Clark
+### August 21, 2017  
+
+1.  What is an exception?
+...**Answer:**   A special global variable that checks to see whether a method succeeded.    
+
+1.  What happens in a try block if the program executes without errors?
+...**Answer:**    If none of the statements generates an exception in a try block then they all run one after another.
+
+1.  How does the catch mechanism work for unhandled exceptions?
+...**Answer:**   An OverflowException will be thrown which will not be caught by the FormatException catch handler.  As a result the calling method immediately exists and execution returns to its caller.
+
+1.  What happens in a program if an exception block fails to handle a particular error?
+...**Answer:**    The method immediately exits and execution returns to the calling method
+
+1. What is the parent class for all exceptions?  How does this work?
+...**Answer:**   The parent class for all exceptions is the System Exception Class.  It organizes the list of different exceptions.
+
+1.  How do you determine the type of an error?
+...**Answer:**   To determine the type of an error you would throw an exception class.
+
+1.  What is the purpose of integer checking?
+...**Answer:**   To make sure that integer values used in a program does not reach their limits.
+
+1.  What does the finally block do?
+...**Answer:**  The finally block ensures that a statement is ‘always’ executed.
+
+
