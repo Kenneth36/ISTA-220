@@ -1,0 +1,7 @@
+C:\Users\Kenneth D Clark\Documents\Visual Studio 2017\Projects\TestAverage1\TestAverage1\bin\Debug\TestAverage1.exe.config
+C:\Users\Kenneth D Clark\Documents\Visual Studio 2017\Projects\TestAverage1\TestAverage1\bin\Debug\TestAverage1.exe
+C:\Users\Kenneth D Clark\Documents\Visual Studio 2017\Projects\TestAverage1\TestAverage1\bin\Debug\TestAverage1.pdb
+C:\Users\Kenneth D Clark\Documents\Visual Studio 2017\Projects\TestAverage1\TestAverage1\obj\Debug\TestAverage1.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth D Clark\Documents\Visual Studio 2017\Projects\TestAverage1\TestAverage1\obj\Debug\TestAverage1.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth D Clark\Documents\Visual Studio 2017\Projects\TestAverage1\TestAverage1\obj\Debug\TestAverage1.exe
+C:\Users\Kenneth D Clark\Documents\Visual Studio 2017\Projects\TestAverage1\TestAverage1\obj\Debug\TestAverage1.pdb
