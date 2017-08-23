@@ -1,6 +1,0 @@
-c:\users\kenneth d clark\documents\visual studio 2017\Projects\Circle\Circle\bin\Debug\Circle.exe.config
-c:\users\kenneth d clark\documents\visual studio 2017\Projects\Circle\Circle\bin\Debug\Circle.exe
-c:\users\kenneth d clark\documents\visual studio 2017\Projects\Circle\Circle\bin\Debug\Circle.pdb
-c:\users\kenneth d clark\documents\visual studio 2017\Projects\Circle\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
-c:\users\kenneth d clark\documents\visual studio 2017\Projects\Circle\Circle\obj\Debug\Circle.exe
-c:\users\kenneth d clark\documents\visual studio 2017\Projects\Circle\Circle\obj\Debug\Circle.pdb
