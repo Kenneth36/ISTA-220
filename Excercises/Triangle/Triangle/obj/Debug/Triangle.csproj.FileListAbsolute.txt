@@ -1,0 +1,6 @@
+c:\users\kenneth d clark\documents\visual studio 2017\Projects\Triangle\Triangle\bin\Debug\Triangle.exe.config
+c:\users\kenneth d clark\documents\visual studio 2017\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
+c:\users\kenneth d clark\documents\visual studio 2017\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
+c:\users\kenneth d clark\documents\visual studio 2017\Projects\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+c:\users\kenneth d clark\documents\visual studio 2017\Projects\Triangle\Triangle\obj\Debug\Triangle.exe
+c:\users\kenneth d clark\documents\visual studio 2017\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb
